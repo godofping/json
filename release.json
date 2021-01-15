@@ -1,0 +1,9 @@
+{
+   "latestVersion": "1.1",
+   "latestVersionCode": "1",
+   "url": "http://178.128.83.202/?p=download",
+   "releaseNotes": [
+      "added app updater",
+      "added new receipt format"
+   ]
+}
